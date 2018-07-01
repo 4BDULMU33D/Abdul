@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="texttitle">A Simple Text App</string>
+    <string name="textfeild">Let's go...</string>
+    <string name="scorestitle">SCORES: </string>
+    <string name="score">0</string>
+    <string name="option1">A</string>
+    <string name="option2">B</string>
+    <string name="option3">C</string>
+    <string name="option4">D</string>
+</resources>
